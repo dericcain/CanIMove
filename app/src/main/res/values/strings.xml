@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Can I Move</string>
+    <string name="textViewCityFrom">Where do you currently live?</string>
+    <string name="textViewCityTo">Where do you want to live?</string>
+    <string-array name="cities">
+        <item>Birmingham, AL</item>
+        <item>Atlanta, GA</item>
+        <item>Dallas, TX</item>
+    </string-array>
+</resources>
